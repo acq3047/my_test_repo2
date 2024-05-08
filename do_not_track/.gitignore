@@ -1,0 +1,5 @@
+# I do not want to track the following files of my repository.
+password.txt
+
+# I also want to exclude the following directories.
+do_not_track/
